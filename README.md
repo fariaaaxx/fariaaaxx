@@ -1,4 +1,7 @@
 ### Hi there 👋
+Currently working on learning back-end development 
+Making a few webapps and arduino stuff
+actively learning @nodejs
 
 <!--
 **fariaaaxx/fariaaaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
